@@ -10,6 +10,6 @@ s potenciais de ação das membranas das células nervosas podem ser modelados m
 
 ## Exemplos de resultados para _I = 1,2_
 
-![](graficos-exemplo11.png)
+![](/graficos-exemplo-11.png)
 
 [1] LIMA, R. S. de; CHAVARETTE, F. R.; ROÉFERO, L. G. P. Estudo do comportamento dinâmico do modelo neuronal de hindmarsh-rose. In: _Colloquium Exactarum. ISSN: 2178-8332_. [S.l.: s.n.], 2019. v. 11, n. 4, p. 122–130.
